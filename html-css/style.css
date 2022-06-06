@@ -40,6 +40,9 @@ p{
     font-size: 16px;
     border: none;
     font-family: 'Press Start 2P', cursive;
+    border-width: medium;
+    border-style: dashed;
+    border-color: black;
     
 
 
@@ -54,6 +57,9 @@ p{
     min-width: 160px;
     box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
     z-index: 1;
+    border-width: medium;
+    border-style: dashed;
+    border-color: #f8b500;
 }
 
 .menudropdown-conteudo a{
@@ -83,3 +89,15 @@ p{
   background-color: goldenrod;
 }
 
+
+
+.perfil img {
+
+    border-radius: 50%;
+    border-width: medium;
+    border-style: dashed;
+    border-color:#f8b500;
+    position: relative;
+    left: 43%;
+
+}
